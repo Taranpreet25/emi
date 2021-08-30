@@ -1,9 +1,0 @@
-{
-"booking_date":"2022-01-01", 
-"checkin_date":"2022-03-01",
-"amount":"100"
-}
-
-git config --global user.name "your_username"
-
-git config --global user.email "your_email_address@example.com"
